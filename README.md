@@ -12,6 +12,8 @@ php artisan key:generate
 
 Config database such as database name, database username, and database password in .env file
 
+Change QUEUE_CONNECTION to database in .env file
+
 ## Then Run
 
 ```sh
